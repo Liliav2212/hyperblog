@@ -9,5 +9,6 @@ Un blog increible para el curso de Git y gitHub de Platzi
 * El flujo de trabajo en Github
 * Trucos diferentes del profe
 * La personalidades multiples de Freddy
+* Creado por el increible Platzi Team
 
 🎉🎉🎉
